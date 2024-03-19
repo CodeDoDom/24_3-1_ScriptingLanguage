@@ -1,6 +1,6 @@
 import random
 
-students = []       # 리스트
+students = []
 
 kor_total = 0
 eng_total = 0
@@ -10,13 +10,13 @@ for _ in range(20):
     kor_grades = random.randint(0, 100)
     eng_grades = random.randint(0, 100)
     math_grades = random.randint(0, 100)
-    student_avg = (kor_grades + eng_grades + math_grades) / 3   # 학생 평균
+    student_avg = (kor_grades + eng_grades + math_grades) / 3
 
     kor_total += kor_grades
     eng_total += eng_grades
     math_total += math_grades
 
-    student = {'KOR': kor_grades, 'ENG': eng_grades, 'MATH': math_grades, 'AVG': student_avg}   # 딕셔너리
+    student = {'KOR': kor_grades, 'ENG': eng_grades, 'MATH': math_grades, 'AVG': student_avg}
     students.append(student)
 
 kor_avg = kor_total / 20
