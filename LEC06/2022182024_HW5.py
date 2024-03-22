@@ -14,7 +14,6 @@ def split_sentence(sen):   # 문자열 sen을 공백 기준으로 분리
     global words
     print(f'원본 문장: {sen}')
     words = sen.split()
-    print(f'분리: {words}')
 
 
 def count_words(words):
