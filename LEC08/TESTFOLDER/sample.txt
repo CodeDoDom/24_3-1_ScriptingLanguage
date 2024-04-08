@@ -1,8 +1,0 @@
-=======Header=======
-Hello, New World.This is Python.
-I love Python.T_T
-This is Python.
-I love Python.T_T
-This is Python.
-I love Python.T_T
-=======Footer=======
