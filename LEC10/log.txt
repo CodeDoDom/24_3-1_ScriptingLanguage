@@ -1,0 +1,127 @@
+2024-04-12 10:13:10,745 - INFO - Button Presed.
+2024-04-12 10:13:10,923 - INFO - Button Presed.
+2024-04-12 10:13:11,095 - INFO - Button Presed.
+2024-04-12 10:13:11,249 - INFO - Button Presed.
+2024-04-12 10:13:11,413 - INFO - Button Presed.
+2024-04-12 10:13:11,574 - INFO - Button Presed.
+2024-04-12 10:13:11,761 - INFO - Button Presed.
+2024-04-12 10:13:11,924 - INFO - Button Presed.
+2024-04-12 10:13:12,086 - INFO - Button Presed.
+2024-04-12 10:13:12,274 - INFO - Button Presed.
+2024-04-12 10:13:12,453 - INFO - Button Presed.
+2024-04-12 10:13:12,622 - INFO - Button Presed.
+2024-04-12 10:13:12,787 - INFO - Button Presed.
+2024-04-12 10:13:12,973 - INFO - Button Presed.
+2024-04-12 10:13:13,191 - INFO - Button Presed.
+2024-04-12 10:13:13,369 - INFO - Button Presed.
+2024-04-12 10:19:11,819 - INFO - Button Presed.
+2024-04-12 10:19:12,037 - INFO - Button Presed.
+2024-04-12 10:19:12,230 - INFO - Button Presed.
+2024-04-12 10:19:12,400 - INFO - Button Presed.
+2024-04-12 10:19:12,587 - INFO - Button Presed.
+2024-04-12 10:19:12,759 - INFO - Button Presed.
+2024-04-12 10:19:12,921 - INFO - Button Presed.
+2024-04-12 10:19:13,107 - INFO - Button Presed.
+2024-04-12 10:19:13,271 - INFO - Button Presed.
+2024-04-12 10:19:46,327 - INFO - Button Presed.
+2024-04-12 10:24:17,096 - INFO - Button Presed.
+2024-04-12 10:24:17,476 - INFO - Button Presed.
+2024-04-12 10:24:17,686 - INFO - Button Presed.
+2024-04-12 10:24:17,880 - INFO - Button Presed.
+2024-04-12 10:24:18,059 - INFO - Button Presed.
+2024-04-12 10:24:18,261 - INFO - Button Presed.
+2024-04-12 10:24:18,462 - INFO - Button Presed.
+2024-04-12 10:24:18,665 - INFO - Button Presed.
+2024-04-12 10:24:18,859 - INFO - Button Presed.
+2024-04-12 10:24:19,075 - INFO - Button Presed.
+2024-04-12 10:24:19,284 - INFO - Button Presed.
+2024-04-12 10:24:19,501 - INFO - Button Presed.
+2024-04-12 10:24:19,718 - INFO - Button Presed.
+2024-04-12 10:24:19,921 - INFO - Button Presed.
+2024-04-12 10:24:20,123 - INFO - Button Presed.
+2024-04-12 10:24:20,333 - INFO - Button Presed.
+2024-04-12 10:24:20,541 - INFO - Button Presed.
+2024-04-12 10:24:20,759 - INFO - Button Presed.
+2024-04-12 10:24:20,982 - INFO - Button Presed.
+2024-04-12 10:24:21,185 - INFO - Button Presed.
+2024-04-12 10:24:21,403 - INFO - Button Presed.
+2024-04-12 10:24:21,619 - INFO - Button Presed.
+2024-04-12 10:24:21,829 - INFO - Button Presed.
+2024-04-12 10:24:22,022 - INFO - Button Presed.
+2024-04-12 10:24:22,209 - INFO - Button Presed.
+2024-04-12 10:24:22,465 - INFO - Button Presed.
+2024-04-12 10:24:22,643 - INFO - Button Presed.
+2024-04-12 10:24:22,853 - INFO - Button Presed.
+2024-04-12 10:24:23,046 - INFO - Button Presed.
+2024-04-12 10:24:23,232 - INFO - Button Presed.
+2024-04-12 10:24:23,427 - INFO - Button Presed.
+2024-04-12 10:24:23,621 - INFO - Button Presed.
+2024-04-12 10:25:25,480 - INFO - Button Presed.
+2024-04-12 10:25:25,682 - INFO - Button Presed.
+2024-04-12 10:25:25,847 - INFO - Button Presed.
+2024-04-12 10:25:26,033 - INFO - Button Presed.
+2024-04-12 10:25:26,210 - INFO - Button Presed.
+2024-04-12 10:25:26,380 - INFO - Button Presed.
+2024-04-12 10:25:26,566 - INFO - Button Presed.
+2024-04-12 10:25:26,760 - INFO - Button Presed.
+2024-04-12 10:25:26,947 - INFO - Button Presed.
+2024-04-12 10:25:27,157 - INFO - Button Presed.
+2024-04-12 10:25:27,343 - INFO - Button Presed.
+2024-04-12 10:25:27,545 - INFO - Button Presed.
+2024-04-12 10:25:27,747 - INFO - Button Presed.
+2024-04-12 10:25:27,933 - INFO - Button Presed.
+2024-04-12 10:25:28,126 - INFO - Button Presed.
+2024-04-12 10:25:28,337 - INFO - Button Presed.
+2024-04-12 10:25:28,553 - INFO - Button Presed.
+2024-04-12 10:25:28,771 - INFO - Button Presed.
+2024-04-12 10:25:28,981 - INFO - Button Presed.
+2024-04-12 10:25:29,188 - INFO - Button Presed.
+2024-04-12 10:25:29,376 - INFO - Button Presed.
+2024-04-12 10:25:29,593 - INFO - Button Presed.
+2024-04-12 10:25:29,803 - INFO - Button Presed.
+2024-04-12 10:25:30,019 - INFO - Button Presed.
+2024-04-12 10:25:30,236 - INFO - Button Presed.
+2024-04-12 10:25:30,455 - INFO - Button Presed.
+2024-04-12 10:25:30,654 - INFO - Button Presed.
+2024-04-12 10:25:30,889 - INFO - Button Presed.
+2024-04-12 10:25:31,105 - INFO - Button Presed.
+2024-04-12 10:25:31,347 - INFO - Button Presed.
+2024-04-12 10:25:31,541 - INFO - Button Presed.
+2024-04-12 10:25:31,743 - INFO - Button Presed.
+2024-04-12 10:25:31,928 - INFO - Button Presed.
+2024-04-12 10:25:32,107 - INFO - Button Presed.
+2024-04-12 10:33:25,470 - INFO - Button Presed.
+2024-04-12 10:58:15,582 - INFO - 1
+2024-04-12 10:58:16,109 - INFO - 0
+2024-04-12 10:58:16,350 - INFO - 1
+2024-04-12 10:58:16,544 - INFO - 0
+2024-04-12 10:58:18,530 - INFO - 1
+2024-04-12 10:58:19,050 - INFO - 0
+2024-04-12 10:58:19,290 - INFO - 1
+2024-04-12 10:58:19,514 - INFO - 0
+2024-04-12 10:58:19,733 - INFO - 1
+2024-04-12 10:58:19,964 - INFO - 0
+2024-04-12 10:58:20,244 - INFO - 1
+2024-04-12 10:58:21,858 - INFO - 0
+2024-04-12 10:58:22,284 - INFO - 1
+2024-04-12 10:58:22,562 - INFO - 0
+2024-04-12 10:58:22,811 - INFO - 1
+2024-04-12 10:58:23,408 - INFO - 0
+2024-04-12 10:58:37,982 - INFO - 1
+2024-04-12 10:58:38,454 - INFO - 0
+2024-04-12 10:58:38,989 - INFO - 1
+2024-04-12 10:58:39,440 - INFO - 0
+2024-04-12 11:00:06,962 - INFO - 1
+2024-04-12 11:00:07,498 - INFO - 0
+2024-04-12 11:00:10,165 - INFO - 1
+2024-04-12 11:00:10,646 - INFO - 0
+2024-04-12 11:00:11,306 - INFO - 1
+2024-04-12 11:00:12,421 - INFO - 0
+2024-04-12 11:04:08,719 - INFO - 1
+2024-04-12 11:04:09,091 - INFO - 0
+2024-04-12 11:09:09,205 - INFO - var='PY_VAR1' mode='write' index=''
+2024-04-12 11:09:09,205 - INFO - green
+2024-04-12 11:09:18,668 - INFO - var='PY_VAR1' mode='write' index=''
+2024-04-12 11:09:18,668 - INFO - yellow
+2024-04-12 11:09:34,308 - INFO - var='PY_VAR1' mode='write' index=''
+2024-04-12 11:09:34,308 - INFO - red
