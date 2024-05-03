@@ -12,9 +12,9 @@ mail_server.starttls()
 mail_server.login(id, passwd)
 
 msg = EmailMessage()
-msg['Subject'] = '[이름] 등록 요청'
+msg['Subject'] = '테스트용'
 msg['From'] = '8000gameplayer@gmail.com'
 msg['To'] = '8000gameplayer@gmail.com'
-msg.set_content('등록 요청')
+msg.set_content('테스트용입니다.')
 mail_server.send_message(msg)
 mail_server.quit()
