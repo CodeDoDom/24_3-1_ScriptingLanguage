@@ -35,4 +35,4 @@ def send_document(chat_id, fname):
 
 # send_message(-4246362640, "안녕하세요. 저는 윤이하나 봇입니다.")
 # send_photo(-4246362640, "https://ssl.nexon.com/s2/game/maplestory/renewal/common/logo.png")
-send_document(7020745084, 'SANABI.jpg')
+# send_document(7020745084, 'SANABI.jpg')
